@@ -1,3 +1,4 @@
+此数据集仅用作科学研究。如果你申请此数据集，请填写ApplyForm，e-mail:leizhen960124@163.com。
 This repository is for the accepted ICASSP2025 paper: "Generating Gezi Opera Scores with a Large Language Model and a High-Quality Dataset"
 
 # datasets
@@ -16,4 +17,4 @@ We hereby represent that we are fully authorized to enter into this agreement on
 
 We will cite your paper if these data have been used. We will not distribute the download link to others without informing the authors of article “Generating Gezi Opera Scores with a Large Language Model and a High-Quality Dataset”.
 
-e-mail:leizhen960124@163.com
+
